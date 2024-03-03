@@ -1,0 +1,4 @@
+- 👋 Hi, I’m xen
+- 👀 I’m interested in Backend and C++
+- 🌱 I’m currently learning Backend
+- 💞️ I’m looking to collaborate on how to coding
